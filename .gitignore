@@ -1,0 +1,6 @@
+*DS_STORE
+/stimuli/
+/results/
+*.m~
+*._*
+*.asv
